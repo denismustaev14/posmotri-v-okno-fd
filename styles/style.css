@@ -92,9 +92,6 @@ ol {
   width: 35%;
   height: 100%;
 }
-.title {
-  margin-bottom: 26px;
-}
 .result__video-container {
   width: 711px;
   height: 386px;
@@ -138,6 +135,7 @@ ol {
   text-transform: uppercase;
   width: 259px;
   height: 210px;
+  margin-bottom: 26px;
 }
 .content__accent {
   color: #545050;
@@ -201,9 +199,6 @@ fieldset {
   border-right: 0;
   background-color: #1b1919;
   appearance: none;
-}
-.search-form__label:has(:focus-visible) {
-  outline: 1px solid #fff;
 }
 .search-form__pseudo-checkbox {
   border: 1px solid #fff;
