@@ -146,16 +146,16 @@ ol {
 .content__video-card-title {
   max-width: 196px;
   text-transform: uppercase;
-  font-family: "Oswald" sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 30px;
   text-align: left;
   text-decoration-skip-ink: none;
-  margin-bottom: 6px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  padding-bottom: 4px;
 }
 .content__video-card-description {
   font-family: "Fira Sans Condensed", sans-serif;
